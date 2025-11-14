@@ -3,6 +3,7 @@ print("hello world")
 print("LOL XD (^-^)")
 print("こんにちは")
 print("蚕")
+print(0+1+2+3+10000)
 print(2+3)
 
 
