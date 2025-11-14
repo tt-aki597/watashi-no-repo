@@ -1,0 +1,14 @@
+# Visual Studioのソリューションファイルを無視する
+*.sln
+
+# Visual Studioのプロジェクトファイルを無視する（.py以外で）
+*.vcxproj
+
+# プロジェクトに関連するフォルダも無視
+*.vs/
+
+*.db
+
+*.vsidx
+
+*.json
