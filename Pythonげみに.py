@@ -55,3 +55,5 @@ print(c)
 c.pop ("gawawa")
 
 print (c)
+
+print (type(c))
